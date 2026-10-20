@@ -1,4 +1,4 @@
-# JobRadarAICrawler
+# JobRadarAICrawler-Scraper
 
 Ricerca geografica italiana con GUI PySide6, archivio territoriale offline e SQLite
 tramite SQLAlchemy. Il repository iniziale conteneva soltanto licenza e `.gitignore`:
