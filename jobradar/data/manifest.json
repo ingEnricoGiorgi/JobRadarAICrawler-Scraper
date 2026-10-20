@@ -1,0 +1,21 @@
+{
+  "retrieved_at": "2026-10-20T23:17:54.632689+00:00",
+  "sources": {
+    "istat": {
+      "url": "https://www.istat.it/storage/codici-unita-amministrative/Elenco-comuni-italiani.xlsx",
+      "sha256": "83842076860450f7e482daecea6b7a769f5f93d0bf5b0d48802b44896d7a26d5"
+    },
+    "coordinates": {
+      "url": "https://raw.githubusercontent.com/opendatasicilia/comuni-italiani/main/dati/coordinate.csv",
+      "sha256": "07604fb00015163f5cd638cecc80fa1481e0841510e7b02929b1219cea546e86"
+    },
+    "coordinate_names": {
+      "url": "https://raw.githubusercontent.com/opendatasicilia/comuni-italiani/main/dati/comuni.csv",
+      "sha256": "bfd61f87ec4f9ad8a72acd4ef0f6513042a23077f65745bf62348a446370b5be"
+    }
+  },
+  "municipalities": 7894,
+  "with_coordinates": 7865,
+  "coordinate_system": "EPSG:4326",
+  "coordinate_description": "Punto municipale da Open Data Sicilia, fonte integrativa non ISTAT; join per codice corrente o storico ufficiale ISTAT e denominazione ufficiale esatta (anche italiana)"
+}
